@@ -1,9 +1,5 @@
 # Git
 ## Basics
-command        |  Output
--------------  |  -------
- git restore . |  Return to last committed state
- git restore filename |  
 
 ## Branches
 - create branch: git switch -c branchname
