@@ -1,6 +1,10 @@
 # Git
 ## Basics
-- 
+command        |  Output
+-------------  |  -------
+ git restore . |  Return to last committed state
+ git restore filename |  
+
 ## Branches
 - create branch: git switch -c branchname
 - add & commit regulary
@@ -17,4 +21,4 @@
 - git switch <branchname>   => switch brnaches
 - git branch    => list branches
 - git branch -a   => list all
-- git brnch -d <brnachname>  => delete
+- git brnch -d <branchname>  => delete
